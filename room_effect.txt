@@ -1,0 +1,21 @@
+{
+    "name": "room_effect",
+    "columns": [
+        "id",
+        "reward_get",
+        "jukebox",
+        "nebbia"
+    ],
+    "schema": "CREATE TABLE 'room_effect' ('id' INTEGER NOT NULL, 'reward_get' INTEGER NOT NULL, 'jukebox' INTEGER NOT NULL, 'nebbia' INTEGER NOT NULL, PRIMARY KEY('id'));"
+}
+{"id": 1, "reward_get": 1, "jukebox": 0, "nebbia": 0}
+{"id": 2, "reward_get": 2, "jukebox": 0, "nebbia": 0}
+{"id": 3, "reward_get": 3, "jukebox": 0, "nebbia": 0}
+{"id": 4, "reward_get": 4, "jukebox": 0, "nebbia": 0}
+{"id": 5, "reward_get": 5, "jukebox": 0, "nebbia": 0}
+{"id": 6, "reward_get": 6, "jukebox": 0, "nebbia": 0}
+{"id": 7, "reward_get": 7, "jukebox": 0, "nebbia": 0}
+{"id": 8, "reward_get": 8, "jukebox": 0, "nebbia": 0}
+{"id": 9, "reward_get": 0, "jukebox": 1, "nebbia": 0}
+{"id": 10, "reward_get": 0, "jukebox": 0, "nebbia": 1}
+{"id": 11, "reward_get": 11, "jukebox": 0, "nebbia": 0}

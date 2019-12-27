@@ -1,0 +1,24 @@
+{
+    "name": "sekai_add_times_data",
+    "columns": [
+        "id",
+        "sekai_id",
+        "add_times",
+        "add_times_limit",
+        "add_times_time",
+        "duration"
+    ],
+    "schema": "CREATE TABLE 'sekai_add_times_data' ('id' INTEGER NOT NULL, 'sekai_id' INTEGER NOT NULL, 'add_times' INTEGER NOT NULL, 'add_times_limit' INTEGER NOT NULL, 'add_times_time' TEXT NOT NULL, 'duration' INTEGER NOT NULL, PRIMARY KEY('id'));"
+}
+{"id": 1, "sekai_id": 1001, "add_times": 6, "add_times_limit": 10, "add_times_time": "2019/04/01", "duration": 0}
+{"id": 2, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 2:00:00", "duration": 120}
+{"id": 3, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 4:00:00", "duration": 120}
+{"id": 4, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 6:00:00", "duration": 120}
+{"id": 5, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 8:00:00", "duration": 120}
+{"id": 6, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 10:00:00", "duration": 120}
+{"id": 7, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 12:00:00", "duration": 120}
+{"id": 8, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 14:00:00", "duration": 120}
+{"id": 9, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 16:00:00", "duration": 120}
+{"id": 10, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 18:00:00", "duration": 120}
+{"id": 11, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 20:00:00", "duration": 120}
+{"id": 12, "sekai_id": 1001, "add_times": 2, "add_times_limit": 10, "add_times_time": "2019/04/01 22:00:00", "duration": 120}

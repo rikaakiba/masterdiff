@@ -1,0 +1,17 @@
+{
+    "name": "pct_system",
+    "columns": [
+        "id",
+        "pct_base_speed",
+        "fever_point_max",
+        "fever_time",
+        "fever_revention_time",
+        "pct_time",
+        "chara1",
+        "chara2",
+        "chara1_gauge_choice",
+        "chara2_gauge_choice"
+    ],
+    "schema": "CREATE TABLE 'pct_system' ('id' INTEGER NOT NULL, 'pct_base_speed' INTEGER NOT NULL, 'fever_point_max' INTEGER NOT NULL, 'fever_time' INTEGER NOT NULL, 'fever_revention_time' INTEGER NOT NULL, 'pct_time' INTEGER NOT NULL, 'chara1' INTEGER NOT NULL, 'chara2' INTEGER NOT NULL, 'chara1_gauge_choice' INTEGER NOT NULL, 'chara2_gauge_choice' INTEGER NOT NULL, PRIMARY KEY('id'));"
+}
+{"id": 1, "pct_base_speed": 600, "fever_point_max": 60, "fever_time": 2, "fever_revention_time": 500, "pct_time": 30, "chara1": 109101, "chara2": 109001, "chara1_gauge_choice": 1, "chara2_gauge_choice": 1}

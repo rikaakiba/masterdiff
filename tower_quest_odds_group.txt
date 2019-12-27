@@ -1,0 +1,29 @@
+{
+    "name": "tower_quest_odds_group",
+    "columns": [
+        "odds_group_id",
+        "team_level_from",
+        "team_level_to",
+        "treasure_type_1",
+        "odds_csv_1",
+        "treasure_type_2",
+        "odds_csv_2",
+        "treasure_type_3",
+        "odds_csv_3",
+        "treasure_type_4",
+        "odds_csv_4",
+        "treasure_type_5",
+        "odds_csv_5",
+        "treasure_type_6",
+        "odds_csv_6",
+        "treasure_type_7",
+        "odds_csv_7",
+        "treasure_type_8",
+        "odds_csv_8",
+        "treasure_type_9",
+        "odds_csv_9",
+        "treasure_type_10",
+        "odds_csv_10"
+    ],
+    "schema": "CREATE TABLE 'tower_quest_odds_group' ('odds_group_id' INTEGER NOT NULL, 'team_level_from' INTEGER NOT NULL, 'team_level_to' INTEGER NOT NULL, 'treasure_type_1' INTEGER NOT NULL, 'odds_csv_1' TEXT NOT NULL, 'treasure_type_2' INTEGER NOT NULL, 'odds_csv_2' TEXT NOT NULL, 'treasure_type_3' INTEGER NOT NULL, 'odds_csv_3' TEXT NOT NULL, 'treasure_type_4' INTEGER NOT NULL, 'odds_csv_4' TEXT NOT NULL, 'treasure_type_5' INTEGER NOT NULL, 'odds_csv_5' TEXT NOT NULL, 'treasure_type_6' INTEGER NOT NULL, 'odds_csv_6' TEXT NOT NULL, 'treasure_type_7' INTEGER NOT NULL, 'odds_csv_7' TEXT NOT NULL, 'treasure_type_8' INTEGER NOT NULL, 'odds_csv_8' TEXT NOT NULL, 'treasure_type_9' INTEGER NOT NULL, 'odds_csv_9' TEXT NOT NULL, 'treasure_type_10' INTEGER NOT NULL, 'odds_csv_10' TEXT NOT NULL, PRIMARY KEY('odds_group_id','team_level_from','team_level_to'));"
+}

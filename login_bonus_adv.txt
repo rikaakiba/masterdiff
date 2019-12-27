@@ -1,0 +1,19 @@
+{
+    "name": "login_bonus_adv",
+    "columns": [
+        "id",
+        "login_bonus_id",
+        "start_time",
+        "end_time",
+        "count_key",
+        "adv_id"
+    ],
+    "schema": "CREATE TABLE 'login_bonus_adv' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'count_key' INTEGER NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('id'));"
+}
+{"id": 1, "login_bonus_id": 70000, "start_time": "2018/12/24 5:00:00", "end_time": "2018/12/25 4:59:59", "count_key": 0, "adv_id": 400}
+{"id": 2, "login_bonus_id": 70000, "start_time": "2018/12/25 5:00:00", "end_time": "2018/12/26 4:59:59", "count_key": 0, "adv_id": 401}
+{"id": 3, "login_bonus_id": 70001, "start_time": "0", "end_time": "0", "count_key": 1, "adv_id": 410}
+{"id": 4, "login_bonus_id": 70001, "start_time": "0", "end_time": "0", "count_key": 2, "adv_id": 411}
+{"id": 5, "login_bonus_id": 70001, "start_time": "0", "end_time": "0", "count_key": 3, "adv_id": 412}
+{"id": 6, "login_bonus_id": 70002, "start_time": "2019/12/24 5:00:00", "end_time": "2019/12/25 4:59:59", "count_key": 0, "adv_id": 400}
+{"id": 7, "login_bonus_id": 70002, "start_time": "2019/12/25 5:00:00", "end_time": "2019/12/26 4:59:59", "count_key": 0, "adv_id": 401}
