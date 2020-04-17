@@ -4,3 +4,4 @@ INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/2, /*login_bonus_id*/910
 INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/3, /*login_bonus_id*/9100201, /*reward_type*/2, /*reward_id*/31002, /*reward_num*/10);
 INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/4, /*login_bonus_id*/9105501, /*reward_type*/2, /*reward_id*/31055, /*reward_num*/10);
 INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/5, /*login_bonus_id*/9101601, /*reward_type*/2, /*reward_id*/31016, /*reward_num*/10);
+INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/6, /*login_bonus_id*/9112401, /*reward_type*/2, /*reward_id*/31124, /*reward_num*/10);
