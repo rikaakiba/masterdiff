@@ -1,2 +1,2 @@
 CREATE TABLE 'growth_restriction_unit' ('id' INTEGER NOT NULL, 'growth_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('id'));
-
+INSERT INTO "growth_restriction_unit" VALUES (/*id*/1, /*growth_id*/1, /*unit_id*/114601);
