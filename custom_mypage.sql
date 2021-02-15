@@ -91,3 +91,6 @@ INSERT INTO "custom_mypage" VALUES (/*still_id*/9000088, /*group_id*/10004, /*st
 INSERT INTO "custom_mypage" VALUES (/*still_id*/9000089, /*group_id*/10004, /*still_group_id*/0, /*still_name*/"EDscene5", /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO "custom_mypage" VALUES (/*still_id*/9000090, /*group_id*/10004, /*still_group_id*/0, /*still_name*/"EDscene6", /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO "custom_mypage" VALUES (/*still_id*/9000091, /*group_id*/10004, /*still_group_id*/0, /*still_name*/"アニメオリジナル　ペコリーヌカスタムマイページ", /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO "custom_mypage" VALUES (/*still_id*/9000092, /*group_id*/20001, /*still_group_id*/0, /*still_name*/"3周年記念カスタムマイページ1", /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO "custom_mypage" VALUES (/*still_id*/9000093, /*group_id*/20001, /*still_group_id*/0, /*still_name*/"3周年記念カスタムマイページ2", /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO "custom_mypage" VALUES (/*still_id*/9000094, /*group_id*/20001, /*still_group_id*/0, /*still_name*/"3周年記念カスタムマイページ3", /*vertical_still_flg*/0, /*scroll_direction*/0);
