@@ -7,3 +7,4 @@ INSERT INTO "shiori_description" VALUES (/*id*/20007, /*type*/5, /*description*/
 INSERT INTO "shiori_description" VALUES (/*id*/20009, /*type*/6, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO "shiori_description" VALUES (/*id*/20010, /*type*/7, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
 INSERT INTO "shiori_description" VALUES (/*id*/20011, /*type*/8, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
+INSERT INTO "shiori_description" VALUES (/*id*/20013, /*type*/9, /*description*/"ミッションを達成すると解放できるキャラが登場します。\nミッションクリアを目指しましょう。");
