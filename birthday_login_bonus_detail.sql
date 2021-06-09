@@ -80,4 +80,5 @@ INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/79, /*login_bonus_id*/91
 INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/80, /*login_bonus_id*/9104202, /*reward_type*/2, /*reward_id*/31042, /*reward_num*/10);
 INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/81, /*login_bonus_id*/9104002, /*reward_type*/2, /*reward_id*/31040, /*reward_num*/10);
 INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/82, /*login_bonus_id*/9102102, /*reward_type*/2, /*reward_id*/31021, /*reward_num*/10);
+INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/83, /*login_bonus_id*/9106302, /*reward_type*/2, /*reward_id*/31063, /*reward_num*/10);
 INSERT INTO "birthday_login_bonus_detail" VALUES (/*id*/84, /*login_bonus_id*/9106502, /*reward_type*/2, /*reward_id*/31065, /*reward_num*/10);
