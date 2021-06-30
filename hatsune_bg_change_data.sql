@@ -19,3 +19,5 @@ INSERT INTO "hatsune_bg_change_data" VALUES (/*id*/19, /*area_id*/10066101, /*co
 INSERT INTO "hatsune_bg_change_data" VALUES (/*id*/20, /*area_id*/10066, /*condition_type*/3, /*condition_id*/5066005, /*target_type*/2, /*bg_after_change_id*/501291);
 INSERT INTO "hatsune_bg_change_data" VALUES (/*id*/21, /*area_id*/10069, /*condition_type*/3, /*condition_id*/5042001, /*target_type*/2, /*bg_after_change_id*/501001);
 INSERT INTO "hatsune_bg_change_data" VALUES (/*id*/23, /*area_id*/10068, /*condition_type*/3, /*condition_id*/5068001, /*target_type*/2, /*bg_after_change_id*/501341);
+INSERT INTO "hatsune_bg_change_data" VALUES (/*id*/24, /*area_id*/10070, /*condition_type*/3, /*condition_id*/5070004, /*target_type*/2, /*bg_after_change_id*/501353);
+INSERT INTO "hatsune_bg_change_data" VALUES (/*id*/25, /*area_id*/10070, /*condition_type*/3, /*condition_id*/5070005, /*target_type*/2, /*bg_after_change_id*/500016);
