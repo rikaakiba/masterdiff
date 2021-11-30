@@ -13,3 +13,5 @@ INSERT INTO "arcade_story_list" VALUES (/*story_id*/5040701, /*arcade_id*/1005, 
 INSERT INTO "arcade_story_list" VALUES (/*story_id*/5040702, /*arcade_id*/1005, /*sub_title*/"チーズの誘惑");
 INSERT INTO "arcade_story_list" VALUES (/*story_id*/5040703, /*arcade_id*/1005, /*sub_title*/"芽生える愛情？");
 INSERT INTO "arcade_story_list" VALUES (/*story_id*/5040704, /*arcade_id*/1005, /*sub_title*/"労働は続くよどこまでも");
+INSERT INTO "arcade_story_list" VALUES (/*story_id*/5080700, /*arcade_id*/1008, /*sub_title*/"究極への道");
+INSERT INTO "arcade_story_list" VALUES (/*story_id*/5080701, /*arcade_id*/1008, /*sub_title*/"プリンは続くよどこまでも");
