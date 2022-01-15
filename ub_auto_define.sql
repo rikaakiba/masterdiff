@@ -61,6 +61,7 @@ INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1038001, /*ub_auto_id_1*/1, /*u
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1040001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1040011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1042001, /*ub_auto_id_1*/14002, /*ub_auto_id_2*/11002, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1042011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1043001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1044001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1045001, /*ub_auto_id_1*/12002, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
@@ -204,6 +205,7 @@ INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1193001, /*ub_auto_id_1*/1, /*u
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1199001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1207001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1208001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1209001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1701011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1801001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO "ub_auto_define" VALUES (/*skill_id*/1802001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
