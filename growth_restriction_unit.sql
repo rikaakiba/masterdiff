@@ -9,3 +9,4 @@ INSERT INTO "growth_restriction_unit" VALUES (/*id*/7, /*growth_id*/8, /*unit_id
 INSERT INTO "growth_restriction_unit" VALUES (/*id*/8, /*growth_id*/9, /*unit_id*/119201);
 INSERT INTO "growth_restriction_unit" VALUES (/*id*/9, /*growth_id*/10, /*unit_id*/120801);
 INSERT INTO "growth_restriction_unit" VALUES (/*id*/10, /*growth_id*/12, /*unit_id*/121201);
+INSERT INTO "growth_restriction_unit" VALUES (/*id*/11, /*growth_id*/13, /*unit_id*/122101);
