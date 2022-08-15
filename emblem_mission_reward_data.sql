@@ -946,3 +946,7 @@ INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1067, /*mission_reward_id
 INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1068, /*mission_reward_id*/56011644, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/50, /*icon_type*/0);
 INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1069, /*mission_reward_id*/56011645, /*reward_type*/15, /*reward_id*/10201645, /*reward_num*/1, /*icon_type*/1003);
 INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1070, /*mission_reward_id*/56011645, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100, /*icon_type*/0);
+INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1071, /*mission_reward_id*/56011646, /*reward_type*/15, /*reward_id*/10201646, /*reward_num*/1, /*icon_type*/1001);
+INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1072, /*mission_reward_id*/56011647, /*reward_type*/15, /*reward_id*/10201647, /*reward_num*/1, /*icon_type*/1002);
+INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1073, /*mission_reward_id*/56011648, /*reward_type*/15, /*reward_id*/10201648, /*reward_num*/1, /*icon_type*/1003);
+INSERT INTO "emblem_mission_reward_data" VALUES (/*id*/1074, /*mission_reward_id*/56011648, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/50, /*icon_type*/0);
