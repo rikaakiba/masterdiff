@@ -99,3 +99,8 @@ INSERT INTO "clan_battle_training_data" VALUES (/*id*/97, /*training_id*/1057, /
 INSERT INTO "clan_battle_training_data" VALUES (/*id*/98, /*training_id*/1057, /*mode*/0, /*phase*/3, /*map_data_id*/266);
 INSERT INTO "clan_battle_training_data" VALUES (/*id*/99, /*training_id*/1057, /*mode*/0, /*phase*/4, /*map_data_id*/267);
 INSERT INTO "clan_battle_training_data" VALUES (/*id*/100, /*training_id*/1057, /*mode*/0, /*phase*/5, /*map_data_id*/268);
+INSERT INTO "clan_battle_training_data" VALUES (/*id*/101, /*training_id*/1058, /*mode*/0, /*phase*/1, /*map_data_id*/270);
+INSERT INTO "clan_battle_training_data" VALUES (/*id*/102, /*training_id*/1058, /*mode*/0, /*phase*/2, /*map_data_id*/271);
+INSERT INTO "clan_battle_training_data" VALUES (/*id*/103, /*training_id*/1058, /*mode*/0, /*phase*/3, /*map_data_id*/272);
+INSERT INTO "clan_battle_training_data" VALUES (/*id*/104, /*training_id*/1058, /*mode*/0, /*phase*/4, /*map_data_id*/273);
+INSERT INTO "clan_battle_training_data" VALUES (/*id*/105, /*training_id*/1058, /*mode*/0, /*phase*/5, /*map_data_id*/274);
