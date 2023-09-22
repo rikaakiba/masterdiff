@@ -2,3 +2,6 @@ CREATE TABLE 'unique_equip_consume_group' ('group_id' INTEGER NOT NULL, 'index_i
 INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/1, /*index_in_group*/1, /*item_id*/32025);
 INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/2, /*index_in_group*/1, /*item_id*/32046);
 INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/3, /*index_in_group*/1, /*item_id*/32048);
+INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/4, /*index_in_group*/1, /*item_id*/32016);
+INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/5, /*index_in_group*/1, /*item_id*/32060);
+INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/5, /*index_in_group*/2, /*item_id*/32078);
