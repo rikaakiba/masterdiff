@@ -8,3 +8,6 @@ INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/5, /*index_in_group
 INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/6, /*index_in_group*/1, /*item_id*/32031);
 INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/7, /*index_in_group*/1, /*item_id*/32007);
 INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/8, /*index_in_group*/1, /*item_id*/32050);
+INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/9, /*index_in_group*/1, /*item_id*/32033);
+INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/10, /*index_in_group*/1, /*item_id*/32058);
+INSERT INTO "unique_equip_consume_group" VALUES (/*group_id*/10, /*index_in_group*/2, /*item_id*/32075);
