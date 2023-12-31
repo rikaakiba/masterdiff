@@ -94,3 +94,4 @@ INSERT INTO "unit_skill_data_rf" VALUES (/*id*/1701003, /*skill_id*/1701003, /*r
 INSERT INTO "unit_skill_data_rf" VALUES (/*id*/1802002, /*skill_id*/1802002, /*rf_skill_id*/1802202, /*min_lv*/261, /*max_lv*/-1);
 INSERT INTO "unit_skill_data_rf" VALUES (/*id*/1802012, /*skill_id*/1802012, /*rf_skill_id*/1802212, /*min_lv*/261, /*max_lv*/-1);
 INSERT INTO "unit_skill_data_rf" VALUES (/*id*/1807002, /*skill_id*/1807002, /*rf_skill_id*/1807202, /*min_lv*/261, /*max_lv*/-1);
+INSERT INTO "unit_skill_data_rf" VALUES (/*id*/1807012, /*skill_id*/1807012, /*rf_skill_id*/1807212, /*min_lv*/261, /*max_lv*/-1);
